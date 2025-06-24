@@ -79,4 +79,4 @@ An additional file `samples.evidence` is used to test the classifier against unk
 
 1. **Install requirements**:
    ```bash
-   pi
+   pip install numpy pandas matplotlib scikit-learn
